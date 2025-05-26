@@ -1,0 +1,14 @@
+workflow  - git clone
+
+1 .git clone URL
+2. cd git-session1
+3. folder mai file create ki
+4. git status   - (U => untracked, A=> Added, M=>Modified,  Tracked)
+5. git add .	(staging file)
+6. git commit -m "created index file"
+7. git push -u origin main
+
+
+git push	(for next time after  doing some modification)
+
+workflow  - git init
